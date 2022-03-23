@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AboutMe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ColorMyViews" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DataBinding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DiceRoller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FragmentExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GDGFinder-Starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LifeCycleDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ViewModel" vcs="Git" />
+  </component>
+</project>
